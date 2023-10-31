@@ -1,0 +1,10 @@
+Here is a list of the necessary packages along with their primary purpose:
+
+Flask: 
+Flask_SQLAlchemy: 
+Flask_JWT_Extended: 
+PyMySQL: 
+Werkzeug: 
+
+To install all of these packages, you can use pip.
+
